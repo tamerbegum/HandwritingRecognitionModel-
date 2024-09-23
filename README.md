@@ -4,7 +4,7 @@
 Handwriting recognition model built with TensorFlow and Flask, utilizing a dataset of over 400,000 handwritten names. The project includes data preprocessing, model training, and a Flask API for real-time predictions.
 
 ## Dataset
-The dataset is sourced from Kaggle and contains handwritten images with associated labels. 
+The dataset is sourced from Kaggle and contains handwritten images with associated labels.  (https://www.kaggle.com/datasets/landlord/handwriting-recognition)
 
 The dataset consists of more than four hundred thousand handwritten names collected through charity projects. It includes a total of 206,799 first names and 207,024 surnames, divided into the following subsets:
 
