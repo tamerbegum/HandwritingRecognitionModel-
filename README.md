@@ -1,7 +1,7 @@
 # Handwriting Recognition Model
 
 ## Overview
-This project implements a handwriting recognition model using TensorFlow and Flask. The model processes handwritten images and predicts the corresponding text using a Convolutional Recurrent Neural Network (CRNN).
+Handwriting recognition model built with TensorFlow and Flask, utilizing a dataset of over 400,000 handwritten names. The project includes data preprocessing, model training, and a Flask API for real-time predictions.
 
 ## Dataset
 The dataset is sourced from Kaggle and contains handwritten images with associated labels. 
